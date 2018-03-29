@@ -1,0 +1,17 @@
+.container {
+	border:3px solid gray;
+	min-height: 100px;
+}
+
+.div1{
+	border:2px solid red;
+}
+.div2{
+	border:2px solid blue;
+}
+.div3{
+	border:2px solid green;
+}
+.div4{
+	border:2px solid black;
+}
